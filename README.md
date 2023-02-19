@@ -21,7 +21,7 @@ Now that I have graduated from App Academy, I am eager to turn my dream of doing
 <ul>
   <li><a href="https://github.com/Risclover/ribbit" target="_blank">Ribbit</a> - Pixel-perfect clone of Reddit</li>
   <li><a href="https://github.com/g-wn/uncrate-clone" target="_blank">Reduncrate</a> - Pixel-perfect clone of Uncrate.com</li>
-  <li><a href="https://github.com/Risclover/API-project" target="_blank">Airbnbeezy</a> - Pixel-perfect clone of Airbnb</li>
+  <li><a href="https://github.com/Risclover/airbnbeezy" target="_blank">Airbnbeezy</a> - Pixel-perfect clone of Airbnb</li>
 </ul>
 
 <h2 align="left">Connect with me:</h2>
