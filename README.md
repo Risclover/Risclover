@@ -25,4 +25,4 @@ Now that I have graduated from App Academy, I am eager to turn my dream of doing
 </ul>
 
 <h2 align="left">Connect with me:</h2>
-<a href="https://www.linkedin.com/in/sara-dunlop" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://angel.co/u/sara-dunlop-1" target="_blank"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" /></a> <a href="mailto:sara091592@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sara-dunlop" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://angel.co/u/sara-dunlop-1" target="_blank"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" /></a> <a href="mailto:sara.dunlop.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
