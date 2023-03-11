@@ -12,7 +12,7 @@ Now that I have graduated from App Academy, I am eager to turn my dream of doing
 <ul>
   <li>Honing my DS&A skills</li>
   <li>Improving my projects</li>
-  <li>Dipping my toes into Java</li>
+  <li>Dipping my toes into </li>
  </ul>
 
 <h2>Developer Links</h2>
