@@ -12,7 +12,7 @@ Now that I have graduated from App Academy, I am eager to turn my dream of doing
 <ul>
   <li>Honing my DS&A skills</li>
   <li>Improving my projects</li>
-  <li>Dipping my toes into Django</li>
+  <li>Dipping my toes into new languages and technologies</li>
  </ul>
 
 <h2>Developer Links</h2>
